@@ -1,0 +1,16 @@
+1. write a program to check a number is odd/even	OddEven.java
+2. program to find odd/even sum upto a limit		OddEvenSum.java
+3. program to find reverse of a number			ReverseNum.java
+4. program to check a number is palindrome or not	Palindrome.java
+5. program to check whether a number is armstrong/not	Armstrong.java
+6. program to print fibanocci series			Fibonnaci.java
+7. program to find sum of digits of a number		DigitSum.java
+8. program to print the following patterns
+
+
+ *			* * *	         *		
+
+ * *			* *	       *    *	
+
+ * * *			*	     *    *   *	
+Pattern1.java	  Pattern2.java		Pyramid.java
