@@ -1,0 +1,6 @@
+Write a Java program to sort a numeric array					SortArray.java
+Write a Java program to sum values of an array.					SumArray.java
+Write a Java program to test if an array contains a specific value.		SearchArray.java		
+Write a Java program to find the maximum and minimum value of an array.		MinMaxArray.java	
+Write a Java program to find the second largest element in an array.		SecondLarge.java
+diagonal sum of a matrix							DiagonalSum.java
